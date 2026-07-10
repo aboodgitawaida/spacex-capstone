@@ -1,7 +1,7 @@
 # spacex-capstone
 # IBM Data Science Professional Certificate Capstone Project
 **Student Author:** Abdel Rahman Sameh Awaida  
-**Project Topic:** SpaceX Falcon 9 First Stage Landing Prediction  
+**Project Topic:** Coursera Final Project
 
 ## Repository Index Mapping
 - **Module 1: Exploratory Data Analysis with SQL** -> [Notebook Link](notebooks/3_eda_sql.ipynb)
